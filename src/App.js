@@ -19,15 +19,15 @@ class App extends React.Component {
       formHidden: true,
       books: [
         {
-          title: "The Hobbit",
-          author: "J.R.R. Tolkien",
+          title: "Sapiens",
+          author: "Yuval Noah Harari",
           pages: 295,
           readStatus: false,
         },
         {
-          title: "Harry Potter",
-          author: "J.K. Rowling",
-          pages: 150,
+          title: "Angels and Demons",
+          author: "Dan Brown",
+          pages: 613,
           readStatus: false,
         },
       ]
